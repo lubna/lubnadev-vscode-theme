@@ -1,0 +1,47 @@
+{
+  "name": "lubnadev-theme",
+  "displayName": "LubnaDev-Theme",
+  "description": "Bright and colourful dark theme.",
+  "version": "0.0.1",
+  "publisher": "lubna.dev",
+  "maintainers": [
+    "Lubna <hello@lubna.dev>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lubna/lubnadev-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/lubna/lubnadev-vscode-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.44.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "lubnadev",
+    "lubna.dev",
+    "dark",
+    "purple",
+    "pink",
+    "modern",
+    "colorfull",
+    "colourfull"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#141318",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "LubnaDev",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lubnadev-color-theme.json"
+      }
+    ]
+  }
+}
