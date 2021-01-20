@@ -3,7 +3,7 @@
   "displayName": "LubnaDev-Theme",
   "description": "Bright and colourful dark theme.",
   "version": "0.0.1",
-  "publisher": "lubna.dev",
+  "publisher": "lubnadev",
   "maintainers": [
     "Lubna <hello@lubna.dev>"
   ],
@@ -27,8 +27,7 @@
     "purple",
     "pink",
     "modern",
-    "colorfull",
-    "colourfull"
+    "colorfull"
   ],
   "icon": "images/icon.png",
   "galleryBanner": {
