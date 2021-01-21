@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "lubnadev-theme" extension will be documented in this file.
+## 1.0.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Full release of version 1 🎉
 
-## [Unreleased]
+## 0.0.1
 
-- Initial release
+Initial release for testing
